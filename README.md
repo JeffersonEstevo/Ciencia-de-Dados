@@ -1,1 +1,1 @@
-# Notebooks para a disciplina Ciência de Dados - UFRN 2023.1
+# Notebooks da disciplina Ciência de Dados - UFRN 2023.1
